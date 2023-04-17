@@ -25,3 +25,13 @@ nav {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 50px;
 }
+
+.search-btn {
+  position: absolute;
+  top: 0;
+  right: 2%;
+}
+
+label:not(:last-child) {
+  margin-right: 5rem;
+}
