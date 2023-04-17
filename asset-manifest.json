@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexPirko.github.io/my-react-movie-app/static/css/main.aa107772.css",
+    "main.js": "/AlexPirko.github.io/my-react-movie-app/static/js/main.80158bb7.js",
+    "index.html": "/AlexPirko.github.io/my-react-movie-app/index.html",
+    "main.aa107772.css.map": "/AlexPirko.github.io/my-react-movie-app/static/css/main.aa107772.css.map",
+    "main.80158bb7.js.map": "/AlexPirko.github.io/my-react-movie-app/static/js/main.80158bb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa107772.css",
+    "static/js/main.80158bb7.js"
+  ]
+}
